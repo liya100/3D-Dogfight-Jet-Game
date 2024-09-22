@@ -1,0 +1,45 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+Assets/StreamingAssets/*.bin
+
+# Auto-generated VS/MD/VSCode project files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+*.opendb
+
+# Rider project files
+.idea/
+*.sln.iml
+
+# User-specific files
+*.swp
+*.swm
+*.DS_Store
+.DS_Store?
+
+# Crashlytics generated files
+*.stacktrace
+
+# Packed Unity assets
+*.unitypackage
+
+# Log files
+*.log
+*.tlog
